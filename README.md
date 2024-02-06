@@ -1,4 +1,4 @@
-# testing-exercise
+# testing JEST
 testing with Jest
 
 To start:
