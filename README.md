@@ -1,4 +1,4 @@
-# testing-exercise
+# testing JEST
 testing with Jest
 
 To start:
@@ -6,6 +6,4 @@ To start:
 2. Run `npm install`
 3. Run `npm run test`
 
-*visist https://zerotomastery.io/ for more*
-
-
+Como trabalhar com testes unitários utilizando JEST
