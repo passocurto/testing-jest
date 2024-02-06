@@ -7,3 +7,4 @@ To start:
 3. Run `npm run test`
 
 Como trabalhar com testes unitários utilizando JEST
+Documents: https://jestjs.io/docs/tutorial-react
